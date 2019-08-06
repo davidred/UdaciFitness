@@ -1,7 +1,7 @@
 import React from 'react'
 import { StyleSheet, View } from 'react-native'
 import { FontAwesome, MaterialIcons, MaterialCommunityIcons } from '@expo/vector-icons'
-import { white, orange } from './colors'
+import { white, orange, red, blue, lightPurp, pink } from './colors'
 
 const styles = StyleSheet.create({
   container: {
